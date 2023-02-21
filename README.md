@@ -23,7 +23,7 @@
 
 - 💬 I would love to talk about **open source and accessibility.**
 
-- 👨‍💻 My portfolio is available at https://dlipahir.github.io
+- 👨‍💻 My portfolio is available at https://dlipahir.github.io/portfolia
 
 - 📫 How to reach me **ahirdilp@gmail.com**
 
